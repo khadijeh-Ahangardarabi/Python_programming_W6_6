@@ -61,5 +61,5 @@ def main() -> None:
     print("Program ending.")
 
 
-if name == "main":
+if __name__ == "__main__":
     main()
